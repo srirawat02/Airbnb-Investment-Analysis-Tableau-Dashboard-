@@ -196,3 +196,5 @@ These insights can help investors choose the right property, location, and renta
 - Location Analysis
 - Seasonal Trend Analysis
 - Competitive Market Analysis
+
+# View Project on Medium : https://medium.com/@srishtirawat2/data-analytics-project-how-i-used-tableau-to-identify-profitable-airbnb-investment-opportunities-763c3bc0f623
